@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Medical-Store-React/static/css/main.241951ba.css",
+    "main.js": "/Medical-Store-React/static/js/main.3b3df02f.js",
+    "static/media/medicine4.jpg": "/Medical-Store-React/static/media/medicine4.a91a5deeea3d770eab1f.jpg",
+    "static/media/medicine3.jpg": "/Medical-Store-React/static/media/medicine3.0c5d3a285101b9f67ba6.jpg",
+    "static/media/medicine6.jpg": "/Medical-Store-React/static/media/medicine6.f87cd18d91503c77ef79.jpg",
+    "static/media/medicine2.jpg": "/Medical-Store-React/static/media/medicine2.01becfdc5c7083755e95.jpg",
+    "static/media/medicine5.png": "/Medical-Store-React/static/media/medicine5.72ad89eb9282a681fc9a.png",
+    "static/media/instagram.png": "/Medical-Store-React/static/media/instagram.5e853fbce6d1f4a3c580.png",
+    "static/media/medicine1.jpg": "/Medical-Store-React/static/media/medicine1.30c590041d9c1c5469e3.jpg",
+    "static/media/twitter.png": "/Medical-Store-React/static/media/twitter.fab27476e98ab8a49167.png",
+    "index.html": "/Medical-Store-React/index.html",
+    "main.241951ba.css.map": "/Medical-Store-React/static/css/main.241951ba.css.map",
+    "main.3b3df02f.js.map": "/Medical-Store-React/static/js/main.3b3df02f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.241951ba.css",
+    "static/js/main.3b3df02f.js"
+  ]
+}
